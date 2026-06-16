@@ -40,6 +40,8 @@ Copy the whole `distinctive-ui-design/` folder into one of:
 
 The folder name must match the `name:` in `SKILL.md`. No build step — it loads automatically.
 
+Alternatively, paste the link into Codex / Cursor / Claude Code and let it install the skill for you.
+
 ### When it triggers
 
 When you ask for a page/app/screen/component that should look better, more modern, or less
@@ -92,6 +94,8 @@ nothing breaks.
 
 文件夹名必须和 `SKILL.md` 里的 `name:` 一致。无需构建，自动加载。
 
+或者直接将链接丢给 codex/cursor/claude code，让它进行安装。
+
 ### 何时触发
 
 当你要做一个页面/应用/界面/组件，希望它更好看、更现代、不那么"像 AI 做的"；当你要把 web 设计
@@ -109,7 +113,7 @@ distinctive-ui-design/
 
 ### 与 frontend-design 的关系
 
-本 skill 自给自足（web 也不例外）。如果同时装了 Cursor 的 `frontend-design` skill，它会补充更深的
+本 skill 自给自足（web 也不例外）。如果同时装了 `frontend-design` skill，它会补充更深的
 web 美学指导、与本 skill 互补；不装也完全不影响使用。
 
 ---
